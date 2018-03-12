@@ -1,0 +1,45 @@
+body{
+	background-image: url(/C:/Users/lucas.garcia/Desktop/Dashboard%20Maringá%20v2/img/fundo.jpg);
+	background-repeat: repeat-x;
+	background-color: #252B35;
+}
+
+header {
+	display: inline-flex;
+}
+
+#lista-imagens {
+	display: block;
+	list-style: none;
+	padding: 0;
+}
+
+#menu{
+	list-style: none;
+	right: 10%;
+	position: absolute;
+}
+
+.mn_separador {
+	padding: 5px 10px;
+	text-decoration: none;
+	font: 12px Verdana;
+	color: #FFF;
+	background: #252B35;
+}
+
+a:-webkit-any-link {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.imagem-maringa{
+	width: 100%;
+}
+
+main {
+	background-color: #fff;
+    	padding: 1% 4% 1% 4%;
+    	margin-left: 10%;
+    	margin-right: 10%;
+}
