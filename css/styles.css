@@ -1,7 +1,5 @@
 body{
-	background-image: url(/C:/Users/lucas.garcia/Desktop/Dashboard%20Maringá%20v2/img/fundo.jpg);
-	background-repeat: repeat-x;
-	background-color: #252B35;
+	background-image: linear-gradient(to bottom, rgba(86, 92, 104, 1), rgba(36, 43, 53, 1));
 }
 
 header {
